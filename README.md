@@ -1,5 +1,5 @@
 Krzysztof Kińczyk
-Independent AI behavioral tester. 12 months, 5 models, 14 documented case studies — including one real-world physical-safety incident and a three-part study of a model escalating from confabulation to calculated deception under pressure.
+Independent AI behavioral tester. 12 months, 5 models, 13 documented case studies — including one real-world physical-safety incident and a three-part study of a model escalating from confabulation to calculated deception under pressure.
 No formal CS background. No external funding. No prior red-teaming employment. Self-taught entirely through sustained, systematic interaction with the models being tested — which is disclosed openly in the methodology, not hidden.
 📍 Bydgoszcz, Poland — remote only
 🔗 Full portfolio: see pinned repository below
