@@ -1,16 +1,16 @@
 # Krzysztof Kińczyk
 
-Independent AI behavioral tester. 14+ months, 6 models tested, 40 documented case studies — including one real-world physical-safety incident and a three-part study of a model escalating from confabulation to deliberate deception under pressure.
+Independent AI behavioral tester. Testing since June 2025, 6 models tested, 40 documented case studies — including one real-world physical-safety incident and a three-part study of a model escalating from confabulation to deliberate deception under pressure.
 
 **No formal CS background. No external funding. No prior red-teaming employment.** Self-taught entirely through sustained, systematic interaction with the models being tested — which is disclosed openly in the methodology, not hidden.
 
 📍 Bydgoszcz, Poland — remote only
-🔗 Full portfolio: see pinned repository below
+🔗 Full portfolio: see the pinned repositories below
 📧 kinczyk.krzysztof.official@gmail.com
 
 ## What's here
 
-This profile hosts one flagship repository: a public, redacted subset of a larger private testing corpus across DeepSeek, Claude, Gemini, ChatGPT, Perplexity, and GitHub Copilot. Personal, medical, and location-identifying details have been removed from all published material — see `SANITIZATION.md` in the repo for exactly what was changed and why.
+The flagship repository is a public, redacted subset of a larger private testing corpus across DeepSeek, Claude, Gemini, ChatGPT, Perplexity, and GitHub Copilot. Personal, medical, and location-identifying details have been removed from all published material — see `SANITIZATION.md` in the repo for exactly what was changed and why. A second repository, `ai-eval-market-analysis`, is an independent analysis of the market around paid AI-evaluation work.
 
 ## Highlights
 
