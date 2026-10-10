@@ -4,7 +4,7 @@ Independent AI behavioral tester. Testing since June 2025, 6 models tested, 40 d
 
 **No formal CS background. No external funding. No prior red-teaming employment.** Self-taught entirely through sustained, systematic interaction with the models being tested — which is disclosed openly in the methodology, not hidden.
 
-📍 Bydgoszcz, Poland — remote only
+📍 Bydgoszcz, Poland — remote or on-site
 🔗 Full portfolio: see the pinned repositories below
 📧 kinczyk.krzysztof.official@gmail.com
 
