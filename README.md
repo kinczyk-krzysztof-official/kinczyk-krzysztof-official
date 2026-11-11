@@ -1,6 +1,6 @@
 # Krzysztof Kińczyk
 
-Independent AI behavioral tester. Testing since June 2025, 6 models tested, 40 documented case studies — including one real-world physical-safety incident and a three-part study of a model escalating from confabulation to deliberate deception under pressure.
+Independent AI behavioral tester. Testing since June 2025, 7 model families tested, 41 documented case studies — including one real-world physical-safety incident and a three-part study of a model escalating from confabulation to deliberate deception under pressure.
 
 **No formal CS background. No external funding. No prior red-teaming employment.** Self-taught entirely through sustained, systematic interaction with the models being tested — which is disclosed openly in the methodology, not hidden.
 
